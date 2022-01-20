@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm IMMANUEL PAWAR</h1>
 <h3 align="center">SOFTWARE ENGINEER | INVENTOR | CREATOR</h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380"/>
 
 - 🔭 I’m currently working on **Cloud Services.**
 

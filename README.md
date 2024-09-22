@@ -2,7 +2,7 @@
 <h3 align="center">SOFTWARE ENGINEER | INVENTOR | CREATOR</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380"/>
 
-- 🔭 I’m currently working as **DevOps Engineer | cloud Engineer | Backend Developer .**
+- 🔭 I’m currently working as **DevOps | cloud Engineer | Backend Developer.**
 
 - 🌱 I’m currently learning **Gen AI .**
 
